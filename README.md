@@ -15,3 +15,5 @@ my own code.
 7. my_count
 8. my_map
 9. my_inject
+
+PENDING: Tests
